@@ -1,7 +1,5 @@
 # quiz_app
 
-# quiz_app
-
 Disusun Oleh :
 - Albiona Qalbu Shoukhi (22091397076)
 - Farah Adilah Hasan (22091397092)
